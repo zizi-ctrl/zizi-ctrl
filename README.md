@@ -29,12 +29,12 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/>
 </h4>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi-ctrl&layout=compact&theme=transparent)
 
 </div>
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi-ctrl&layout=compact&theme=transparent)
+
 **zizi-ctrl/zizi-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
