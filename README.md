@@ -3,9 +3,10 @@
 <i>
   🏫 Inha Univ.
   📖 Artificial Intelligence
+<hr border=0>
 
-  <hr>
 <h3>🌱 I’m currently learning 🌱<h3> </i>
+<p align="left">
 <h4> 
   Machine Learning 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> 
@@ -30,9 +31,12 @@
   <img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/>
 </h4>
 
-</div>
-  
+<i> 🔅Most Used Language🔅 </i>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi-ctrl&layout=compact&theme=transparent)
+
+</div>
+ 
 <!--
 
 **zizi-ctrl/zizi-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
