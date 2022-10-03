@@ -1,6 +1,14 @@
-### Hi there 👋
+<div align="center">
+<h2> Hi there ✨ I'm Taehyun🐱</h2>
+
+<h4> I’m currently learning 📖 <h4>
+<h4> Machine Learning :  <h4>
+<img src="https://img.shields.io/badge/PyTorch-#EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi-ctrl&layout=compact&theme=transparent)
+
+
 
 <!--
 **zizi-ctrl/zizi-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
