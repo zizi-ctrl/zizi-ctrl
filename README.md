@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <h4>
 <h4> 
-  Web Front-end
+  Web Front-nd
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-EE4C2C?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
