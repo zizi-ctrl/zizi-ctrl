@@ -1,5 +1,5 @@
 <div align="center">
-<h3> Hi there✨ I'm Taehyun🐱</h3>
+<h3> Hi there✨ I'm Taehyun</h3>
 <i>
   🏫 Inha Univ.
   📖 Artificial Intelligence
@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/>
 </h4>
 
-<i> 🔅Most Used Language🔅 </i>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi-ctrl&layout=compact&theme=transparent)
 
