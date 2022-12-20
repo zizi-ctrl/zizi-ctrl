@@ -1,5 +1,6 @@
 <div align="center">
-<h3> Hi there✨ I'm Taehyun 안녕하세요!</h3>
+<h3> Hi there✨ I'm ZIZI</h3>
+<h4> 안녕하세요! 인하대에 재학 중인 안태현입니다🐱</h4>
 <i>
   🏫 Inha Univ.
   📖 Artificial Intelligence
