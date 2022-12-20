@@ -1,6 +1,6 @@
 <div align="center">
 <h3> Hi there✨ I'm ZIZI</h3>
-<h4> 안녕하세요! 인하대 21학번 안태현입니다🐱</h4>
+<h4> 안녕하세요! 인하대학교 21학번 안태현입니다🐱</h4>
 <i>
   🏫 Inha Univ.
   📖 Artificial Intelligence
