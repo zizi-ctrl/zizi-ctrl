@@ -1,5 +1,5 @@
 <div align="center">
-<h3> Hi there✨ I'm Taehyun</h3>
+<h3> Hi there✨ I'm Taehyun 안녕하세요!</h3>
 <i>
   🏫 Inha Univ.
   📖 Artificial Intelligence
